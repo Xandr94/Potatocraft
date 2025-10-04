@@ -1,0 +1,42 @@
+# C/C++ build artifacts
+*.exe
+*.obj
+*.o
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.log
+*.out
+*.a
+*.so
+*.dylib
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# User-specific
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Python cache (if any)
+__pycache__/
+*.pyc
+
+# Ignore build and temp folders
+build/
+dist/
