@@ -1,0 +1,6 @@
+- [ ] Create project structure
+- [ ] Copy all .c and .h files into project directory
+- [ ] Generate Makefile with build targets
+- [ ] Configure compilation using GCC
+- [ ] Create batch file for Windows
+- [x] Write this todo list
