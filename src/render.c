@@ -105,8 +105,7 @@ void World_Show()
 
 //-----------------------------------------------------------------------
 
-//#define TEX_FOLDER "assets/minecraft/textures/blocks/"
-#define TEX_FOLDER ""
+#define TEX_FOLDER "assets/"
 #define BLOCK_COBBLESTONE TEX_FOLDER"cobblestone.png"
 #define BLOCK_GLASS TEX_FOLDER"glass.png"
 #define GRASS_SIDE TEX_FOLDER"grass_side.png"

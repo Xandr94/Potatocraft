@@ -13,6 +13,9 @@
 *.so
 *.dylib
 
+# Build scripts
+*.bat
+
 # VSCode settings
 .vscode/
 
